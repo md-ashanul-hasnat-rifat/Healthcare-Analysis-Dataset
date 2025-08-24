@@ -1,4 +1,4 @@
-📊 Project: Hospital Management Dashboard
+# Project: Hospital Management Dashboard📊
 
 Tools Used: Power BI | SQL | Excel | Data Visualization
 
